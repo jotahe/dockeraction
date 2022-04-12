@@ -5,7 +5,7 @@ inputs:
   who-to-greet:  # id of the input
     description: 'Who to greet'
     required: true
-    default: 'World'
+    default: 'World from Docker'
 outputs:
   time: # id of output
     description: 'The time we greeted you'
